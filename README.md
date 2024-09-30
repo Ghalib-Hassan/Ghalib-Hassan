@@ -33,22 +33,5 @@
 
 ## GitHub Stats
 
-<div style="display: flex; align-items: center; background-color: #1b1e22; color: white; padding: 20px; border-radius: 10px; width: 500px;">
 
-  
-  <div>
-    <h3 style="margin: 0; color: #00ADEF;">Dr. Muhammad Sajjad</h3>
-    <p style="margin: 5px 0;">👥 Followers: <strong>12</strong></p>
-  </div>
-
-  <div style="margin-left: auto; text-align: left;">
-    <p>📚 <strong>Total Repo:</strong> 13</p>
-    <p>⭐ <strong>Star's Count:</strong> 3</p>
-    <p>🍴 <strong>Fork's Count:</strong> 2</p>
-    <p>🔄 <strong>Contributions:</strong> 73</p>
-    <p>⚠️ <strong>Total Issues:</strong> 0</p>
-    <p>✅ <strong>Closed Issues:</strong> 0</p>
-  </div>
-  
-</div>
-
+![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ghalib-Hassan&show_icons=true&theme=dark)
