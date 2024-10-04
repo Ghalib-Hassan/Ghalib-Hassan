@@ -1,37 +1,77 @@
 
+
+
 # Hi 👋, I'm Ghalib Hassan
+
+<p align="center"> 
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=20&duration=2000&pause=100&color=00FFFF&multiline=true&width=550&height=150&lines=Flutter+Developer+%7C+Backend+Learner+%7C+Web+Developer;Ask+Me+About+Flutter%2C+Ask+Me+About+Web" alt="Typing SVG" />
+  </a>
+</p>
 
 - 🔭 I’m currently working on **Flutter**
 - 🌱 I’m currently learning **Backend Development**
 - 💬 Ask me anything about **Flutter**
 - 📫 How to reach me: **ghalibthassan@gmail.com**
 - 🌐 My website: https://ghalib-hassan.github.io/Portfolio/
+<br>
 
-## Connect with me:
+<h2 align="left">Connect with me:</h2>
+ <p align="left"> <a href="https://www.linkedin.com/in/ghalib-hassan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ghalib-hassan" height="30" width="40" /></a> <a href="https://www.facebook.com/ghalib.hassan.2003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ghalib-hassan" height="30" width="40" /></a> <a href="https://github.com/ghalib-Hassan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="ghalib-hassan" height="30" width="40" /></a> <a href="https://www.instagram.com/ghalib_hassan123/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ghalib-hassan" height="30" width="40" /></a> <a href="https://x.com/GhalibH14N?t=GmWDBo9mAdvt-x5T1R76Qg&s=09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ghalib-hassan" height="30" width="40" /></a> </p> 
+<br>
+<h2 align="left">Languages and Tools:</h2>
+<p align="left">
+    <!-- HTML5 -->
+    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html5" width="40" height="40" />
+    </a>
+    <!-- CSS3 -->
+    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css3" width="40" height="40" />
+    </a>
+    <!-- JavaScript -->
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" />
+    </a>
+    <!-- Flutter -->
+    <a href="https://flutter.dev" target="_blank" rel="noreferrer">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="flutter" width="40" height="40" />
+    </a>
+    <!-- Dart -->
+    <a href="https://dart.dev" target="_blank" rel="noreferrer">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" alt="dart" width="40" height="40" />
+    </a>
+    <!-- Git -->
+    <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="40" height="40" />
+    </a>
+    <!-- Firebase -->
+    <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="firebase" width="40" height="40" />
+    </a>
+    <!-- VS Code -->
+    <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40" />
+    </a>
+    <!-- Android Studio -->
+    <a href="https://developer.android.com/studio" target="_blank" rel="noreferrer">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" alt="androidstudio" width="40" height="40" />
+    </a>
+    <!-- MySQL -->
+    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40" />
+    </a>
+</p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ghalib-hassan)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/ghalib.hassan.2003)
-[![GitHub](https://img.shields.io/badge/GitHub-333?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ghalib-Hassan)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ghalib_hassan123/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/GhalibH14N?t=GmWDBo9mAdvt-x5T1R76Qg&s=09)
+  <br>
+  <h2 align="left">GitHub Stats:</h2> <p align="left"> <a href="https://github.com/ghalib-Hassan"> <img src="https://github-stats-alpha.vercel.app/api?username=ghalib-Hassan&cc=22272e&tc=37BCF6&ic=fff&bc=0000"> </a> </p>
+<details>
+  <summary>📈 Stats</summary>
+  <br>
+  My Github Stats
 
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=your-github-username&theme=dracula)
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=your-github-username&theme=dracula)
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=your-github-username&theme=dracula)
+</details>
 
-## Languages and Tools:
-
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![GitHub](https://img.shields.io/badge/GitHub-333?style=for-the-badge&logo=github&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-
-## GitHub Stats
-
-
-![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ghalib-Hassan&show_icons=true&theme=dark)
