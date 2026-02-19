@@ -8,6 +8,7 @@
     <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&duration=2000&pause=100&color=00FFFF&multiline=true&width=750&height=160&lines=Flutter+Developer+%7C+Building+Scalable+Cross-Platform+Apps;Clean+Architecture+%7C+Firebase+%7C+REST+APIs+%7C+GetX;Backend+Engineering+Learner+%7C+System+Design+Explorer" alt="Typing SVG" />
   </a>
 </p>
+
 - 🚀 Currently building **scalable cross-platform apps with Flutter**
 - 🏗️ Exploring **Backend Engineering, System Design & APIs**
 - 🧠 Passionate about **Clean Architecture, State Management (GetX) & Firebase**
